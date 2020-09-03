@@ -24,7 +24,6 @@
           GitHub
         </a>
       </div>
-      <nuxt-link to="/about">About</nuxt-link>
     </div>
   </div>
 </template>
